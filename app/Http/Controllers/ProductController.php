@@ -72,12 +72,12 @@ class ProductController extends Controller
     }
 
      
-    // /**
-    //  * show
-    //  *
-    //  * @param  mixed $id
-    //  * @return View
-    //  */
+//   /**
+//      * show
+//      *
+//      * @param  mixed $id
+//      * @return View
+//      */
     public function show(string $id): View
     {
         //get product by ID
